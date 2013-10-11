@@ -1,0 +1,43 @@
+Sharpen Your Pencil p34
+    Television
+        instance variables
+            channel
+            volume
+
+        methods
+            turn on
+            change channel
+            change volume
+
+Sharpen Your Pencil p37
+    gone with the stock
+    tragic 
+    -2
+    lost in cubicle space
+    comedy
+    5
+    byte club
+    tragic but ultimately uplifting
+    127
+
+Be the Compiler
+    A
+        no, don't create an instance of TapeDeck
+    B
+        
+        no, no method recordDVD()
+
+Who am I?
+    class // 
+    object
+    class
+    method, object
+    class, object
+    instance variable
+    class, object
+    method, instance variable
+    instance variable // wrong, object
+    class // not including instnace variable
+    instnace variable // also object
+    class
+    object, instnace variable

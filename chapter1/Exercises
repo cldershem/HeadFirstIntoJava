@@ -1,0 +1,38 @@
+Be the Compiler
+    A: no public class
+    B: yes.
+    C: no public class
+
+JavaCross 7.0
+    Across
+        4: java
+        6: 
+        8: branch
+        9: dc
+        12: int
+        13: 
+        14: System.out.print
+        18:
+        19: declare
+        21:
+
+    Down:
+        1: float
+        2:
+        3:
+        5: arrays
+        7: while
+        10: compiler
+        11:
+        13: IT
+        15:
+        16: must
+        17:
+        20: JVM
+
+MixedMessagse
+1 5
+2 7
+3 8
+4 2
+5 4

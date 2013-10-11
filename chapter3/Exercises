@@ -1,0 +1,30 @@
+Sharpen your pencil p52
+1 false
+2 false
+3 true
+4 true
+5 true
+6 false
+7 false
+8 true
+9 true
+10 true
+11 false
+12 true
+
+SYP p60
+none?
+pets[3] = pets[1]
+
+BTC
+A seems alright, maybe the [] has an extra space
+    you failed that one didn't you
+B seems arlgight but missing h[0]
+    i think you were right they just did it a different way
+
+Heap O' Trouble
+hq[0] =
+hq[1] = 
+hq[2] = 
+hq[3] = 
+hq[4] = i'm not follwing the idea here...
